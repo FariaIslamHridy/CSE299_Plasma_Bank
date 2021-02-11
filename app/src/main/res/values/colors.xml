@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ade498</color>
+    <color name="colorPrimaryDark">#7fdbda</color>
+    <color name="colorAccent">#febf63</color>
+
+    <color name="gray">#797a7e</color>
+    <color name="blue">#0000EE</color>
+    <color name="transparent">@android:color/transparent</color>
+
+
+    <!--    color of custom progress bar-->
+    <color name="_40_percent_white">#4DFFFFFF</color>
+    <color name="commonBackground">#414141</color>
+    <color name="faded_white">#4DFFFFFF</color>
+
+    <!-- pin view colors   -->
+    <color name="text_selected">#b0003a</color>
+    <color name="text_focused">#E91E63</color>
+    <color name="text_default">#F8BBD0</color>
+    <color name="text_hint_default">#BDBDBD</color>
+    <color name="line_selected">#E91E63</color>
+    <color name="line_focused">#3F51B5</color>
+    <color name="line_default">#C5CAE9</color>
+
+<!--    background color -->
+    <color name="backgroundColor">#F6F6F6</color>
+    <color name="navigationColor">#E25A64</color>
+</resources>
